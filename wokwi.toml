@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/timer-periodico-semaforo.uf2"
+elf = "build/timer-periodico-semaforo.elf"
